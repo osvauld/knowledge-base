@@ -1,0 +1,1 @@
+- User can only read/copy/access the [[Credential]]

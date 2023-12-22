@@ -1,0 +1,3 @@
+-  Can create new users
+- Can change the role of regular user to admin.
+- Can do all the things that [[Regular User]]  can do

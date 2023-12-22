@@ -1,0 +1,1 @@
+List of [[Users]] and [[Group]] who has access to a particular [[Credential]]/[[Folder]] with the [[Access Types]]

@@ -1,0 +1,1 @@
+a list of users with [[Folder access types| access type]] describing who all the folder has been shared with

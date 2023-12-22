@@ -1,0 +1,1 @@
+Only [[Owner]]  of the credential can currently delete it. send the credential id to be and be will safely remove the credential from the database.

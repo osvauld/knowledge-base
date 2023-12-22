@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "28f84dc0a00db4c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "321fb68b5a2547cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46d533e5392cc7f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "10545f259804a28a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard/View credential details.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21b84c40b81f94eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "25d53121f0ca975c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0cfc7a97f77a4db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea4834e7066aa4d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#dashboard",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7a3bba534018f12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64a99264bb90f371",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea4e5b32fbe8d253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af8574887cc9f665",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed0868d7e9e57624",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee61d6753a142d80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0d0720e09751ce9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e46d533e5392cc7f",
+  "lastOpenFiles": [
+    "dashboard/Dashboard View.md",
+    "dashboard/Access Control.md",
+    "dashboard/View credential details.md",
+    "dashboard/Sharing a folder Action.md",
+    "Folder/sharing a folder.md",
+    "credentials/Credential.md",
+    "dashboard/Group List.md",
+    "Group/Group permission types.md",
+    "dashboard/Folder list.md",
+    "Folder/Folder access types.md",
+    "Folder/Delete Folder.md",
+    "users/Admin.md",
+    "Credential Access Types.md",
+    "users/Users.md",
+    "users/Regular User.md",
+    "Group/Group.md",
+    "Group/Group Member.md",
+    "Group/Group Owner.md",
+    "Folder/Shared folder list.md",
+    "Folder/Folder owner.md",
+    "credentials/Edit credential.md",
+    "credentials/Changing access Type.md",
+    "Folder/Folder.md",
+    "credentials/sharing multiple credential.md",
+    "credentials/Sharing Credential.md",
+    "credentials/remove shared credential.md",
+    "dashboard",
+    "credentials/access types",
+    "Group",
+    "Folder",
+    "credentials",
+    "users"
+  ]
+}

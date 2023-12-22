@@ -1,0 +1,1 @@
+This implements the [[sharing a folder]] functionality, user should be able to select from a list of [[Users]]  and [[Group]] to share.

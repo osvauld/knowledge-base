@@ -1,0 +1,1 @@
+A [[Users| user]] should be able to select [[Credential]] and share it with [[Users]] and [[Group]] along with the [[Access Types]] for every user and common one for [[Group]]

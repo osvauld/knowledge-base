@@ -1,0 +1,1 @@
+can only use groups while sharing [[Credential]] or [[Folder]]
